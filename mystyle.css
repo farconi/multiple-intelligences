@@ -1,0 +1,86 @@
+
+            
+#title1 {font-family: 'Finger Paint', cursive; font-size: 60px; position: relative; top: 5px; font-weight: 600;}
+#title2 {font-family: 'Finger Paint', cursive; font-size: 35px; position: relative; top: 5px; font-weight: 600;}
+            
+body {font-family: arial; padding: 0px; margin: 0px 0px 0px 150px; border: 0px;}
+
+h3 {font-size: 15px}
+
+#clicktoget {text-align: center;}
+
+.allborders {border: 10px solid; border-radius: 15px; padding: 20px; margin: 20px;}
+
+h6 {position: relative; bottom: -4px; line-height: 5px; border-top: 1px solid black; padding: 6px 0px 6px 0px; margin: 0px;}
+
+#onemath {border-color: #2D5881;}
+
+#twoling {border-color: #A54D2D;}
+
+#threemusi {border-color: #22737E;}
+
+#fournatu {border-color: #238674;}
+
+#fivespat {border-color: #7B9A40;}
+
+#sixinte {border-color: #7D3F6C;}
+
+#sevenintr {border-color: #B9AC34;}
+
+#eightexis {border-color: #604580;}
+
+#ninebodi {border-color: #8B242D;}
+
+a:link {text-decoration: none; color:white}
+
+a:visited {text-decoration: none; color:darkslategrey}
+
+a:hover {text-decoration: none; color:black; font-weight: 500; font-size: 20px;}
+
+a:active {text-decoration: none; color:white}
+
+.buttons {
+    width: 145px;
+    opacity: 0.8;
+    position: fixed; /* Fixed/sticky position */
+    left: 15px;
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    cursor: pointer; /* Add a mouse pointer on hover */
+     /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+    line-height: 67px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+
+.buttons:hover {
+    opacity: 1; width: 170px; left: 0px;
+}
+
+#buttontop {top: 16px; background-color: lightgray;}
+
+#buttonmath {top: 82px; background-color: #2D5780; }
+
+#buttonlinguistic {top: 149px; background-color: #A44C2D;}
+
+#buttonmusic {top: 215px; background-color: #21727D;}
+
+#buttonnaturalistic {top: 281px; background-color: #228573; }
+
+#buttonspatial {top: 346px; background-color: #7A9942; }
+
+#buttoninterpersonal {top: 412px; background-color: #7C3F6B; }
+
+#buttonintrapersonal {top: 478px; background-color: #B8AB37; }
+
+#buttonexistential {top: 544px; background-color: #60457F; }
+
+#buttonkinaesthetic {top: 610px; background-color: #8A242C;}
+
+#buttonbottom {top: 676px; background-color: lightgrey;}
+
+#testtitle {float: left; margin-left: 25px; width: 1000px;}
+
+#iframe 
